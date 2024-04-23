@@ -1,0 +1,133 @@
+#main{
+    width: 100%;
+    display: inline-block;
+}
+
+
+.header{
+    display: inline-block;
+    
+}
+.sub{
+    display: inline-block;
+    width: 40%;
+}
+.col1{
+    width: 40%;
+    display: inline-block;
+    height: 600px;
+}
+
+
+.col2{
+    width: 59%;
+    display: inline-block;
+    
+}
+
+.col3{
+    display: inline-block;
+    
+}
+
+input{
+    position: absolute;
+    left: 70%;
+    top: 10%;
+    width: 20%;
+    height: 3%;
+    border-radius: 15px;
+    border: solid black 2px;
+}
+
+
+.menu ul{
+    background-color: transparent;
+    border-bottom: black solid 1px;
+    padding: 20px;
+    
+}
+
+.menu ul li{
+    display: inline-block;
+    margin-left: 300px;
+    
+    
+
+}
+
+.col1 ul{
+    background-color: transparent;
+    
+    
+    
+}
+img{
+    border: solid black 2px;
+    border-radius: 10px;
+    
+}
+
+.col1 ul li{
+    background-color: transparent;
+    padding-bottom: 3%;
+    text-align: center;
+    color: white;
+    border: solid black 2px;
+    height: 10%;
+
+}
+
+.lm{
+    position: relative;
+    left: 25%;
+    
+
+    
+}
+
+.col2 h3{
+    position: relative;
+    left: 25%;
+}
+.lambo{
+    position: relative;
+    left: 120%;
+}
+
+
+.lambo1{
+
+    position: absolute;
+    left: 45%;
+}
+
+.lambo2{
+    position: absolute;
+
+    left: 57%;
+}
+
+
+.lambo3{
+    position: absolute;
+
+    left: 70%;
+}
+
+
+
+footer{
+    margin-top: 10%;
+    background-color: black;
+    color: white;
+    height: 30%;        
+    width: 100%;
+}
+
+footer p{
+    margin-left: 30px;
+}
+
+
+
